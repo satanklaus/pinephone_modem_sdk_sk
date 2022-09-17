@@ -1,3 +1,10 @@
+#TODO
+0) доступ по ssh
+1) можно ли подключиться напрямую к модему через Интернет?
+2) поставить zabbix?
+3) поставить salt?
+4) поставить asterisk
+
 # Pinephone Modem SDK
 
 ### (nearly) Free custom firmware for your Pinephone's modem!
